@@ -42,10 +42,10 @@ MVC pattern is implemented to an extent, however it goes without saying that the
 
 ## Screenshots
 **Idle**  
-[Idle](ReadmeAssets/Idle.png)
+![Idle](ReadmeAssets/Idle.png)
 
 **Spinning**  
-[Spinning](ReadmeAssets/Spinning.png)
+![Spinning](ReadmeAssets/Spinning.png)
 
 ## References
 1. [Double Win Vegas](https://play.google.com/store/apps/details?id=ppl.unity.cubeslots&hl=en)
